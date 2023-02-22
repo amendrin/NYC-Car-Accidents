@@ -25,4 +25,7 @@ For this project, the following python libraries were used:
   - json and geojson: geospacial data interchange format
   - sklearn: for machine learning algorithms
   - statsmodels: for statistical models
-  
+  # Project Dashboard
+  This storyboard does not contain every analytical step taken to conduct an analysis of the dataset, only those that were relevant to the final results. 
+ 
+[NYC Vehicle Collisions Storyboard](https://public.tableau.com/app/profile/annah8183/viz/NYCVehicularAccidents_16764954861300/NYCVehicularAccidents?publish=yes)
