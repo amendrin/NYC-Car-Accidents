@@ -12,7 +12,8 @@ The dataset is comprised of an open-source dataset from New York Cities OpenData
 - Number of persons, pedestrians, cyclists and motorists killed
 - Contributing Factors
 - Vehicle Types
-- Full details of the data are [here](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95)
+
+Full details of the data are [here](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95)
 # Tools
 For this project, the following python libraries were used:
   - pandas: for data analysis
